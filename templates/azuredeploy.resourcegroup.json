@@ -10,7 +10,6 @@
       },
       "rgLocation": {
         "type": "string",
-        "name": "eastus",
         "metadata": {
           "description": "Location for the resourceGroup"
         }
